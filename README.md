@@ -52,6 +52,12 @@ Update your cloudflare domains from your UDM with podman.
 
 ## Cool projects you can use with this
 
+### udp-proxy-2020
+
+<https://github.com/synfinatic/udp-proxy-2020>
+
+Forward UDP brodcast messages across VLANs and VPN tunnel interfaces.
+
 ### multicast-relay
 
 <https://hub.docker.com/r/scyto/multicast-relay>
